@@ -15,8 +15,6 @@ function Select() {
         water: {
            backgroundImage: `url("https://wallpapercave.com/wp/wp2459897.jpg")`,
            backgroundSize: 'cover',
-           borderBottomLeftRadius: '10px',
-           borderTopLeftRadius: '10px'
         },
         jungle: {
             backgroundImage: `url("https://www.pixel4k.com/wp-content/uploads/2018/03/Bengal%20Tiger%20in%20Jungle548888426.jpg")`,
@@ -29,8 +27,6 @@ function Select() {
         grassland: {
             backgroundImage: `url("https://c4.wallpaperflare.com/wallpaper/329/532/42/wildlife-grassland-zebra-wild-animals-wallpaper-preview.jpg")`,
             backgroundSize: 'cover',
-            borderBottomRightRadius: '10px',
-            borderTopRightRadius: '10px'
         },
         text: {
             selectorTitle: {
